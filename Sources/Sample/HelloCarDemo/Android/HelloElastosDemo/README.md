@@ -205,7 +205,7 @@ ECode CHelloCar::Hello(
     ```
     externalNativeBuild {
         cmake {
-            cppFlags "-std=c++11", "-D_GNUC", "-D_linux", "-D_UNDEFDLLEXP", "-                  fvisibility=hidden"
+            cppFlags "-std=c++11", "-D_GNUC", "-D_linux", "-D_UNDEFDLLEXP", "-fvisibility=hidden"
         }
     }
     ndk {
