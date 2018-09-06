@@ -1,6 +1,6 @@
 # Quick Start Recipes
 
-* If you build the environment directly on the local computer, please start directly from step: [Checking out the source code](#Checking-out-the-source-code)
+* If you build the environment directly on the local computer, please start directly from step: [Checking out the source code](#checking-out-the-source-code)
 * We provide an image of Elastos.RT for using. If you have an Amazon account, you can purchase the corresponding server and choose to install the image. After installation, you can build the environment of Elastos.RT.
 
   you can refer it: [How_To_Use_The_Image_Of_Elastos.RT](./How_To_Use_The_Image_Of_Elastos.RT.md)
